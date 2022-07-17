@@ -25,5 +25,5 @@
 
 <p style="margin-top:16px;display:flex;align-items:center">
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=MiroiuGabriel&theme=vue&background=DD272700" alt="git-stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=miroiugabriel&show_icons=true&locale=en&layout=compact" alt="miroiugabriel" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=miroiugabriel&show_icons=true&locale=en&layout=compact" alt="miroiugabriel" />
 </p>
