@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miroiugabriel&label=Profile%20views&color=0e75b6&style=flat" alt="miroiugabriel" /> </p>
 
-- 🔭 I’m currently working on [Twitterly](https://twitterly.netlify.app)
+- 🔭 I’m currently working on [Twitterly](https://twitterly.vercel.app)
 
 - 🌱 I’m currently learning **C#**
 
