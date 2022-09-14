@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://miroiugabriel.github.io/](https://miroiugabriel.github.io/)
+- 👨‍💻 All of my projects are available at [miroiu.dev](https://miroiu-dev.vercel.app)
 
 - 💬 Ask me about **React, TypeScript**
 
